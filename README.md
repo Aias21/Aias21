@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aias21)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aias21&theme=dark&border_radius=20&background=0,000000,800000,000000&fire=0b5394&starting_year=2022&exclude_days=Sat,Sun)](https://git.io/streak-stats)
 <!--
 **Aias21/Aias21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
