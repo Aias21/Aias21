@@ -7,7 +7,7 @@
 
 ### I enjoy working out, going for long walks in the city as well in nature, doing puzzles and solving problems.🤔
 
-### If you program works fine, it hasn't been tested well enough! Let me do it for you!😄
+### If your program works fine, it hasn't been tested well enough! Let me do it for you!😄
 
 </br>
 
